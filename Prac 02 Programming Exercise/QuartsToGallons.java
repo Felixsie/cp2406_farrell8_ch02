@@ -1,6 +1,8 @@
 /**
  * Created by Lenovo on 7/15/2018.
  */
+
+// This program is to get the number of quarts needed and see how many gallons needed and lastly find the extra quarts left.
 public class QuartsToGallons
 {
     public static void main(String[] args)
